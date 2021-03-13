@@ -1,0 +1,1 @@
+mkvirtualenv my_django_environment
